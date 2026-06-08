@@ -1,0 +1,17 @@
+name: puls-events-env
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python>=3.8
+  - pip
+  - pip:
+    - langchain
+    - langchain-community
+    - faiss-cpu
+    - sentence-transformers
+    - mistralai
+    - python-dotenv
+    - fastapi
+    - uvicorn
+    - requests

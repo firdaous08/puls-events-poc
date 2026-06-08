@@ -1,0 +1,9 @@
+# Environnement virtuel
+env/
+__pycache__/
+
+# Fichiers de variables d'environnement (Sécurité)
+.env
+
+# (Optionnel) au cas ou les données brutes si elles sont trop lourdes
+# data/raw_events.json

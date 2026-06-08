@@ -1,0 +1,13 @@
+# Modèles et RAG
+langchain
+langchain-community
+faiss-cpu
+sentence-transformers
+mistralai
+
+# Variables d'environnement
+python-dotenv
+
+# API (pour l'étape suivante)
+fastapi
+uvicorn
